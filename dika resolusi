@@ -1,4 +1,4 @@
-1.HTML Dasar
+1.HTML5
 2.CSS Dasar
 3.CSS 3
 4.PHP
@@ -11,3 +11,17 @@
   -switch case
   -function
   -array
+5.Javascript
+  -tipe data
+  -variable
+  -for loop
+  -while loop
+  -foreach loop
+  -for of loop
+  -percabangan(if else)
+  -switch case
+  -function
+  -arrow function
+  -anonymouse function
+  -array
+  -object
