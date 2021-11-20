@@ -9,3 +9,7 @@ Rencana Game Dev
   -while loop
   -forEatch loop
   -function
+  -arrow function
+  -anonymouse function
+  -array[]
+  -object{}
