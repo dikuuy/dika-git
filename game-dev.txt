@@ -1,0 +1,11 @@
+Rencana Game Dev
+
+1.NodeJs
+  -tipe data
+  -variable
+  -percabangan/if else
+  -switch case
+  -for loop
+  -while loop
+  -forEatch loop
+  -function
