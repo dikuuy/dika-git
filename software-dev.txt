@@ -1,4 +1,4 @@
-Rencana Game Dev
+Rencana Software Dev
 
 1.NodeJs
   -tipe data
