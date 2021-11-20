@@ -1,0 +1,18 @@
+Rencana Game Dev
+
+1.NodeJs
+  -tipe data
+  -variable
+  -percabangan/if else
+  -switch case
+  -for loop
+  -while loop
+  -forEatch loop
+  -function
+  -arrow function
+  -anonymouse function
+  -array[]
+  -object{}
+2.JAVA
+3.KOTLIN
+4.C++
